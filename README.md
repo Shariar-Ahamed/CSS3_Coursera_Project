@@ -24,12 +24,12 @@ This project is a final assignment for the **"Introduction to CSS3"** course by 
 ## Project Structure
 
 
-CSS3_Coursera_Project/
-│
-├── index.html # Home page with one image and main content
-├── gallery.html # Gallery page with grid layout and 5 images
-├── about.html # About page with text and image, hover effects
-└── style.css # Main stylesheet containing all styles
+CSS3_Coursera_Project/ <br>
+│ <br>
+├── index.html # Home page with one image and main content <br>
+├── gallery.html # Gallery page with grid layout and 5 images <br>
+├── about.html # About page with text and image, hover effects <br>
+└── style.css # Main stylesheet containing all styles <br>
 
 
 ---
