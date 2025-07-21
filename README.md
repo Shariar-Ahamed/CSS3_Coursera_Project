@@ -1,6 +1,6 @@
 # CSS3 Coursera Project
 
-[Live Demo](https://ShahriarTbc.github.io/CSS3_Coursera_Project)
+[Live Demo](https://shariar-ahamed.github.io/CSS3_Coursera_Project)
 
 ---
 
@@ -47,7 +47,7 @@ CSS3_Coursera_Project/ <br>
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ShahriarTbc/CSS3_Coursera_Project.git
+git clone https://github.com/shariar-ahamed/CSS3_Coursera_Project.git
 
 ```
 2. Open any of the .html files in your preferred browser (e.g. index.html).
@@ -57,5 +57,5 @@ git clone https://github.com/ShahriarTbc/CSS3_Coursera_Project.git
 ## Author
 
 **Shahriar Tbc**  
-[GitHub Profile](https://github.com/ShahriarTbc)  
-[Portfolio](https://shahriartbc.github.io/Shahriar-Portfolio)
+[GitHub Profile](https://github.com/shariar-ahamed)  
+[Portfolio](https://shariar-ahamed.github.io/Shahriar-Portfolio)
